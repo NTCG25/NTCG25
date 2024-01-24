@@ -1,5 +1,5 @@
 ### Howdy! I'm Nigel Martinez
-
+  I'm a Self-Taught Developer who's interested in learning more about Software Development and it's languages!
 <!--
 **NTCG25/NTCG25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
