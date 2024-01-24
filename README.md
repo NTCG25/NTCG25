@@ -10,4 +10,11 @@
   - Motorcycle Gear Estimator (https://github.com/NTCG25/Motorcycle-Gear-Estimator)
   - State Tax Calculator (https://github.com/NTCG25/State-Tax-Calculator)
   - Net Operating Income (https://github.com/NTCG25/State-Tax-Calculator)
+ 
 
+  Languages and Tools
+  - HTML
+  - CSS
+  - Javascript
+  - Java
+  - C#
